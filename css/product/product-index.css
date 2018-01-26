@@ -1,0 +1,115 @@
+.nav{
+    margin-top:20px ;
+    height: 300px;
+    width: 1900px;
+    background: url("../../images/product/nav.jpg");
+    background-size:cover ;
+}
+.main{
+    width: 1200px;
+    height: 1500px;
+    position: relative;
+    top:-50px;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow:  0 3px 6px 2px #999;
+}
+.side{
+    width: 100%;
+    height: 50px;
+    background-color: #FF9900;
+    color: #ffffff;
+    font-family: "Microsoft YaHei";
+    font-size: 20px;
+    line-height: 50px;
+}
+.product{
+      float: left;
+      margin-top: 60px;
+      margin-left: 60px;
+
+  }
+.product img{
+    width: 503px;
+    height: 343px;
+    transition: all 1s;
+}
+.product1{
+    transform-origin:left ;
+    animation: loadshow1 1s;
+}
+.product2{
+    transform-origin:right ;
+    animation: loadshow2 1s;
+}
+.product3{
+    animation: loadshow3 1s;
+}
+.product4{
+    animation: loadshow4 1s;
+}
+.product5{
+    position: absolute;
+    left:50%;
+    top: 855px;
+    transform: translateX(-60%);
+    animation: loadshow5 1s;
+}
+.product img:hover{
+    transform: scale(1.1,1.1);
+}
+@keyframes  loadshow1{
+    0%{
+        opacity: 0;
+        transform:rotate(-60deg) ;
+    }
+    100%{
+        opacity: 1;
+        transform:rotate(0deg) ;
+    }
+}
+@keyframes  loadshow2{
+    0%{
+        opacity: 0;
+        transform:rotate(60deg) ;
+    }
+    100%{
+        opacity: 1;
+        transform:rotate(0deg) ;
+    }
+}
+@keyframes  loadshow3{
+    0%{
+        opacity: 0;
+        transform:translateX(-300px) ;
+    }
+    100%{
+        opacity: 1;
+        transform:translateX(0) ;
+    }
+}
+@keyframes  loadshow4{
+     0%{
+         opacity: 0;
+         transform:translateX(300px) ;
+     }
+     100%{
+         opacity: 1;
+         transform:translateX(0) ;
+     }
+ }
+@keyframes  loadshow5{
+    0%{
+        opacity: 0;
+        transform:translateX(150px) ;
+    }
+    100%{
+        opacity: 1;
+        transform:translateX(-300px) ;
+    }
+}
+footer{
+    position: absolute;
+    top: 1700px;
+    overflow: hidden;
+}

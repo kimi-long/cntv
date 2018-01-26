@@ -1,0 +1,174 @@
+@charset "UTF-8";
+/*index页面*/
+.full{
+    width: 1900px;
+    height: 950px;
+    background: url("../images/index/bg.jpg") ;
+    background-size: 100%;
+    position: relative;
+}
+header{
+    width: 1200px;
+    height: 80px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.header-left{
+    float: left;
+}
+.header-left-logo{
+    float: left;
+    border-right: 2px solid #fff;
+    padding-right: 30px;
+}
+.header-left-content{
+    float: left;
+    padding: 10px 20px 10px 30px;
+}
+.header-right{
+    float: right;
+    height: 80px;
+}
+.header-right ul{
+    height: 80px;
+}
+.header-right ul>li{
+    float: left;
+    position: relative;
+    padding: 0 8px;
+}
+.header-right ul>li>a{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 80px;
+    padding-bottom: 13px;
+}
+.header-right ul>li .nav2{
+    position: absolute;
+    top: 70px;
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+    background-color: white;
+    z-index: 50;
+    display: none;
+}
+.nav2>li{
+    width: 134px;
+}
+
+.header-right ul>li>.nav2>li>a{
+    height: 30px;
+    line-height: 30px;
+    font-size: 15px;
+    color: black;
+    transition:1s
+}
+.nav2top {
+    margin-top: 15px;
+}.nav2bottom {
+     margin-bottom: 15px;
+ }
+.nav2-decoration{
+    width: 15px;
+    height: 15px;
+    transform: rotate(45deg);
+    background-color: white;
+    position:absolute;
+    top: -7px;
+    left:30px;
+}
+/*.nav1 .current{*/
+    /*border-bottom: 2px solid red;*/
+    /*color: red;*/
+/*}*/
+.header-right ul>li:hover .nav2{
+    display: block;
+}
+.header-right>ul>li>a:hover{
+    border-bottom: 2px solid coral;
+    color: coral;
+}
+.nav2>li:hover{
+    background-color: coral;
+}
+#nav21>li>a:hover{
+     color: #fff
+ }
+#nav22>li>a:hover{
+    color: #fff
+}
+#nav23>li>a:hover{
+     color: #fff
+ }
+#nav24>li>a:hover{
+      color: #fff
+  }
+
+footer{
+    width: 100%;
+    height: 350px;
+    background-color: #4B4B4B;
+}
+.footer-top{
+    width: 1200px;
+    height: 260px;
+    border-bottom: 1px solid white;
+    margin: 0 auto;
+    position: relative;
+}
+.footer-top h2{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top:20px;
+    left: 20px;
+    font-family: "Microsoft YaHei";
+}
+.link{
+    position: absolute;
+    top: 80px;
+    left: 120px;
+}
+.link ul{
+    float: left;
+    margin-right:200px ;
+}
+.link ul li a{
+    color: rgba(255,255,255,0.5);
+    font-size: 18px;
+    font-family: "Microsoft YaHei";
+    line-height: 40px;
+}
+.link ul li a:hover{
+    color: white;
+}
+.footer-top h3{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top:20px;
+    left: 850px;
+    margin-top: 0px;
+    font-family: "Microsoft YaHei";
+}
+.wx{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 950px;
+    top:50px;
+}
+.footer-bottom{
+    width: 1200px;
+    height: 90px;
+    margin: 10px auto;
+}
+.footer-bottom p{
+    color: rgba(255,255,255,0.5);
+    font-size: 14px;
+    font-family: "Microsoft YaHei";
+    line-height: 8px;
+    text-align: center;
+}

@@ -1,0 +1,204 @@
+.nav{
+    margin-top:20px ;
+    height: 300px;
+    width: 1900px;
+    background: url("../../images/brand/nav.jpg");
+    background-size:cover ;
+}
+.main{
+    width: 1200px;
+    height: 2520px;
+    position: relative;
+    top:-50px;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow:  0 3px 6px 2px #999;
+}
+.mainall{
+    width: 90%;
+    margin: 0 auto;
+}
+.side{
+    width: 100%;
+    height: 50px;
+    background-color: #2e8be1;
+    color: #ffffff;
+    font-family: "Microsoft YaHei";
+    font-size: 20px;
+    line-height: 50px;
+}
+.topchoose{
+    width: 90%;
+    margin: 50px auto;
+    text-align: center;
+}
+.topLeft{
+    float: left;
+    width: 50%;
+    height:50px;
+    color: #DDDDDD;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 60px;
+    border-bottom: 2px solid #DDDDDD;
+    cursor: pointer;
+}
+.topRight{
+    float: right;
+    width: 50%;
+    height:50px;
+    color: #DDDDDD;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 60px;
+    border-bottom: 2px solid #DDDDDD;
+    cursor: pointer;
+}
+.topRight:hover{
+    color: #2e8be1;
+    border-bottom: 2px solid #2e8be1;
+}
+ .active{
+     color: #2e8be1;
+    border-bottom: 2px solid #2e8be1;
+}
+ .pageone,.pagetwo{
+     width: 90%;
+ }
+ .fenlei{
+     width: 120px;
+     height: 50px;
+     background-color: #DDDDDD;
+     float: left;
+     margin-top: 30px;
+     margin-right: 10px;
+     line-height: 50px;
+     font-size: 20px;
+     cursor: pointer;
+     border-radius: 8px;
+     text-align: center;
+ }
+ .fenlei:hover{
+     background-color: #2e8be1;
+     color: #fff;
+ }
+ .act{
+     background-color: #2e8be1;
+     color: #fff;
+ }
+.headimg{
+    width: 100%;
+    height: 250px;
+    margin-top: 30px;
+}
+.headtext{
+    float: left;
+    margin: 30px 20px;
+    font-family: "Microsoft YaHei";
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: 500;
+}
+.headtext::first-letter{
+    padding-left: 32px;
+}
+
+.maincontent dt{
+    float: left;
+    margin-top: 120px;
+    height: 35px;
+    margin-left: -250px;
+    padding-left: 25px;
+    color: #2e8be1;
+    font-family: "Microsoft YaHei";
+    font-size: 35px;
+    line-height: 35px;
+    font-weight: 800;
+    border-left: 8px solid #2e8be1;
+}
+.mainbottom{
+    width: 90%;
+    margin: 20px auto;
+}
+.mainbottom img{
+    float: left;
+}
+.anli{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 30px;
+}
+.text{
+    width: 50%;
+    float: left;
+}
+.mainbottom span{
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    background-color: #2e8be1;
+    margin-right:20px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.mainbottom dd{
+    margin-top: 20px;
+    float: left;
+    font-family: "Microsoft YaHei";
+    font-size: 18px;
+    line-height: 20px;
+    margin-left: 20px;
+}
+.mainimg{
+    width: 1000px;
+    margin: 30px auto;
+}
+.contentline{
+    width: 90%;
+    height: 40px;
+    margin: 80px auto 20px;
+    border-bottom: 3px solid #C0C0C0;
+    clear: both;
+}
+h4{
+    width: 100px;
+    height: 40px;
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: "Microsoft YaHei";
+    border-bottom: 3px solid #ae5da1;
+}
+ .maincontent span{
+    margin-left: 120px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Microsoft YaHei";
+}
+.company{
+    width: 90%;
+    height: 1200px;
+    margin: 120px auto;
+}
+.coming{
+    float: left;
+    width: 223px;
+    margin: 60px 23px;
+}
+.first4{
+    margin-top: 100px;
+}
+footer{
+    position: absolute;
+    top: 2720px;
+    overflow: hidden;
+}
+.onepage,.twopage,.toptwo{
+    display: none;
+}
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
