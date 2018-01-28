@@ -7,69 +7,68 @@
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/animate.css">
     <script src="js/jquery-3.2.1.js"></script>
-    <script src="js/index.js"></script>
     <script src="js/fengzhuang.js"></script>
-    <script src="js/js.js"></script>
     <script src="js/wow.js"></script>
 </head>
 <body>
+<header>
+    <!--页面顶栏：logo 介绍 导航-->
+    <div class="header-left">
+        <div class="header-left-logo">
+            <a href="index.html"> <img src="images/index/logo.png" ></a>
+        </div>
+        <div class="header-left-content">
+            <img src="./images/moban/title.png" >
+        </div>
+    </div>
+    <div class="header-right">
+        <ul>
+            <li><a href="index.html">首页</a></li>
+            <li class="nav1"><a href="links/product/index.html">产品服务</a>
+                <ul class="nav2" id="nav21">
+                    <li class="nav2top"><a href="links/product/meizi.html">媒资生产业务</a></li>
+                    <li><a href="links/product/zhizuo.html">视频制作业务</a></li>
+                    <li><a href="links/product/shenhe.html">内容审核业务</a></li>
+                    <li><a href="links/product/dashuju.html">大数据分析业务</a></li>
+                    <li class="nav2bottom"><a href="links/product/jishu.html">技术服务</a></li>
+                    <span class="nav2-decoration"></span>
+                </ul>
+            </li>
+            <li><a href="javascript:void(0);">解决方案</a>
+                <ul class="nav2" id="nav22">
+                    <li class="nav2top"><a href="links/solution/gjwlsjk.html">国家网络数据库</a></li>
+                    <li><a href="links/solution/ydyzb.html">移动云直播</a></li>
+                    <li><a href="links/solution/wsp.html">微视频</a></li>
+                    <li><a href="links/solution/4klbypt.html">4K轮播云平台</a></li>
+                    <li><a href="links/solution/shypt.html">审核云平台</a></li>
+                    <li class="nav2bottom"><a href="links/solution/spdsjpt.html">视频大数据平台</a></li>
+                    <span class="nav2-decoration"></span>
+                </ul></li>
+            <li><a href="links/brand/ppal.html">品牌案例</a></li>
+            <li><a href="javascript:void(0);">新闻中心</a>
+                <ul class="nav2" id="nav23">
+                    <li class="nav2top"><a href="#">公司新闻</a></li>
+                    <li><a href="#">关联公司动态</a></li>
+                    <li class="nav2bottom"><a href="#">行业动态</a></li>
+                    <span class="nav2-decoration"></span>
+                </ul></li>
+            <li><a href="javascript:void(0);">关于我们</a>
+                <ul class="nav2" id="nav24">
+                    <li class="nav2top"><a href="links/about/qygk.html">企业概况</a></li>
+                    <li><a href="links/about/zzjg.html">组织架构</a></li>
+                    <li><a href="links/about/qyyj.html">企业愿景</a></li>
+                    <li><a href="links/about/qywh.html">企业文化</a></li>
+                    <li><a href="links/about/zzry.html">资质荣誉</a></li>
+                    <li class="nav2bottom"><a href="links/about/ldgh.html">领导关怀</a></li>
+                    <span class="nav2-decoration"></span>
+                </ul></li>
+            <li><a href="links/job/job.html">人才招聘</a></li>
+        </ul>
+    </div>
+</header>
 <!--第一个全屏页面-->
 <div class="full">
-    <header>
-        <!--页面顶栏：logo 介绍 导航-->
-        <div class="header-left">
-            <div class="header-left-logo">
-                <a href="index.html"> <img src="images/index/logo.png" ></a>
-            </div>
-            <div class="header-left-content">
-                <img src="images/index/title.png" >
-            </div>
-        </div>
-        <div class="header-right">
-            <ul>
-                <li><a href="index.html">首页</a></li>
-                <li class="nav1"><a href="links/product/index.html">产品服务</a>
-                    <ul class="nav2" id="nav21">
-                        <li class="nav2top"><a href="links/product/meizi.html">媒资生产业务</a></li>
-                        <li><a href="links/product/zhizuo.html">视频制作业务</a></li>
-                        <li><a href="links/product/shenhe.html">内容审核业务</a></li>
-                        <li><a href="links/product/dashuju.html">大数据分析业务</a></li>
-                        <li class="nav2bottom"><a href="links/product/jishu.html">技术服务</a></li>
-                        <span class="nav2-decoration"></span>
-                    </ul>
-                </li>
-                <li><a href="javascript:void(0);">解决方案</a>
-                    <ul class="nav2" id="nav22">
-                        <li class="nav2top"><a href="links/solution/gjwlsjk.html">国家网络数据库</a></li>
-                        <li><a href="links/solution/ydyzb.html">移动云直播</a></li>
-                        <li><a href="links/solution/wsp.html">微视频</a></li>
-                        <li><a href="links/solution/4klbypt.html">4K轮播云平台</a></li>
-                        <li><a href="links/solution/shypt.html">审核云平台</a></li>
-                        <li class="nav2bottom"><a href="links/solution/spdsjpt.html">视频大数据平台</a></li>
-                        <span class="nav2-decoration"></span>
-                    </ul></li>
-                <li><a href="links/brand/ppal.html">品牌案例</a></li>
-                <li><a href="javascript:void(0);">新闻中心</a>
-                    <ul class="nav2" id="nav23">
-                        <li class="nav2top"><a href="#">公司新闻</a></li>
-                        <li><a href="#">关联公司动态</a></li>
-                        <li class="nav2bottom"><a href="#">行业动态</a></li>
-                        <span class="nav2-decoration"></span>
-                    </ul></li>
-                <li><a href="javascript:void(0);">关于我们</a>
-                    <ul class="nav2" id="nav24">
-                        <li class="nav2top"><a href="links/about/qygk.html">企业概况</a></li>
-                        <li><a href="links/about/zzjg.html">组织架构</a></li>
-                        <li><a href="links/about/qyyj.html">企业愿景</a></li>
-                        <li><a href="links/about/qywh.html">企业文化</a></li>
-                        <li><a href="links/about/zzry.html">资质荣誉</a></li>
-                        <li class="nav2bottom"><a href="links/about/ldgh.html">领导关怀</a></li>
-                        <span class="nav2-decoration"></span>
-                    </ul></li>
-                <li><a href="links/job/job.html">人才招聘</a></li>
-            </ul>
-        </div>
-    </header>
+
     <!--页面主体-->
     <div class="main">
         <div class="wrap" id="wrap">
