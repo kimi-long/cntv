@@ -31,7 +31,7 @@ header{
 }
 .header-right ul{
     height: 80px;
-    position: relative;
+    /*position: relative;*/
 }
 .header-right ul>li{
     float: left;
@@ -48,7 +48,6 @@ header{
 }
 .header-right ul>li .nav2{
     position: absolute;
-    top: 70px;
     width: 150px;
     height: auto;
     border-radius: 8px;
@@ -71,7 +70,8 @@ header{
 }
 .nav2top {
     margin-top: 15px;
-}.nav2bottom {
+}
+.nav2bottom {
      margin-bottom: 15px;
  }
 .nav2-decoration{
@@ -178,7 +178,7 @@ footer{
     text-align: center;
 }
 @keyframes navdown {
-    0%   {top:80px;}
+    0%   {top:90px;}
     50%  {top:75px;}
     100%  {top:70px;}
 }
