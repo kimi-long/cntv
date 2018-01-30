@@ -1,15 +1,16 @@
 window.onload=function () {
-    var slide=document.getElementsByClassName("slide");
+    var slide=document.getElementsByClassName("slide")[0];
    var ul=document.getElementsByClassName("slideUL")[0];
     var clickArr=document.getElementsByClassName("clickItem");
-    var left=document.getElementsByClassName("prev");
-    var right=document.getElementsByClassName("next");
+    var LR=document.getElementsByClassName("arrow")[0];
+    var left=document.getElementsByClassName("prev")[0];
+    var right=document.getElementsByClassName("next")[0];
     var key=0;
     var clickNO=0;
     function  move(ele,target) {
         clearInterval(ele.act)
         ele.act=setInterval(function () {
-            console.log(ele.offsetLeft);
+            // console.log(ele.offsetLeft);
             var speed=target-ele.offsetLeft>0?Math.floor((target-ele.offsetLeft)/5):Math.ceil((target-ele.offsetLeft)/5);
             // console.log(speed);
             var chazhi=target-ele.offsetLeft;
@@ -49,11 +50,13 @@ window.onload=function () {
         clickArr[clickNO].classList.add("clickActive")
     }
     var autoshow=setInterval(autoPlay,3000);
+    console.log(slide);
     slide.onmouseout=function () {
         autoshow=setInterval(autoPlay,3000);
         LR.style.display="none";
     }
     slide.onmouseover=function () {
+        console.log(11);
         clearInterval(autoshow);
         LR.style.display="block";
     }
@@ -63,7 +66,7 @@ window.onload=function () {
             ul.style.left=-5600+'px';
             key=7;
         }
-        move(ul,-key*500);
+        move(ul,-key*700);
         clickNO--;
         if(clickNO<0){
             clickNO=7;

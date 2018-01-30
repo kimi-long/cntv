@@ -121,6 +121,7 @@ header{
     height: 438px;
     overflow: hidden;
     position: relative;
+    float: left;
 }
 .slideUL{
     width: 800%;
@@ -200,6 +201,10 @@ header{
 .tutext:hover{
     color: red;
     background-color: rgba(0,0,0,0.6);
+}
+.about img{
+    width: 400px;
+    height: 200px;
 }
 .core{
     width: 100%;
