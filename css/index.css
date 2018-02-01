@@ -8,7 +8,6 @@ body{
     height: 950px;
     background-size: cover;
     position: relative;
-    background-color: #000;
 }
 header{
     width: 1200px;
@@ -136,7 +135,7 @@ header{
 .slide li img{
 }
 .clickItems{
-    width: 140px;
+    width: 147px;
     height: 10px;
     position: absolute;
     bottom: 55px;
@@ -148,8 +147,8 @@ header{
 .clickItem{
     float: left;
     margin: 0 5px;
-    width: 6px;
-    height: 6px;
+    width: 7px;
+    height: 7px;
     border: 2px solid rgba(255,255,255,0.3);
     background-color: rgba(0,0,0,0.4);
     border-radius: 50%;
@@ -202,9 +201,98 @@ header{
     color: red;
     background-color: rgba(0,0,0,0.6);
 }
-.about img{
+.about{
+    width: 450px;
+    height: 428px;
+    margin-left: 49px;
+    margin-top: 5px;
+    background-color: #e3f9fd;
+    float: right;
+    box-shadow: 0 0 15px 10px #70f3ff;
+    border-radius: 10px;
+}
+.aboutTop{
+    height: 45px;
+    margin-bottom: 10px;
+}
+.about .aboutTitle{
+    float: left;
+    width: 100px;
+    height: 40px;
+    margin: 10px 0  0 10px ;
+    background: linear-gradient(to right,#ffffff,#70f3ff );
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 0 0 10px 3px #a1afc9;
+}
+.about .aboutTitle p{
+    color: rgba(0,0,0,0.5);
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 40px;
+}
+.about .aboutLink {
+    width: 80px;
+    height: 30px;
+    margin: 15px 10px 0 0;
+    background: linear-gradient(#ffffff,#F7F7F7,#DDDDDD);
+    border-radius: 15%;
+    float: right;
+    box-shadow: 0 0 10px 3px #a1afc9;
+    text-align: center;
+    cursor: pointer;
+}
+.about .aboutLink a{
+    color: rgba(0,0,0,0.8);
+    line-height: 30px;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.about .aboutLink:hover{
+    background: linear-gradient(#DDDDDD,#F7F7F7,#ffffff );
+}
+.about .aboutLink a:hover{
+    color: red;
+}
+.aboutImg{
+    text-align: center;
+}
+.aboutImg img{
     width: 400px;
     height: 200px;
+    border-radius: 20%;
+}
+.aboutText{
+    width: 80%;
+    margin: 10px auto;
+    padding: 8px;
+    box-shadow: 0 0 10px 5px #a1afc9;
+    border-radius: 10%;
+}
+.product{
+    width: 100%;
+    height: 150px;
+    background-color: #000;
+    float: left;
+    margin-top: 50px;
+}
+.productUL{
+    
+}
+.productLI{
+    float: left;
+}
+.productLI img{
+    width: 220px;
+    height: 150px;
+    margin: 0 10px;
+}
+.aboutText p{
+    color: rgba(0,0,0,0.8);
+    font-size: 14px;
+    line-height:20px;
+    font-weight: normal;
 }
 .core{
     width: 100%;

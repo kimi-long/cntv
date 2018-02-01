@@ -49,10 +49,10 @@ window.onload=function () {
         }
         clickArr[clickNO].classList.add("clickActive")
     }
-    var autoshow=setInterval(autoPlay,3000);
+    var autoshow=setInterval(autoPlay,5000);
     console.log(slide);
     slide.onmouseout=function () {
-        autoshow=setInterval(autoPlay,3000);
+        autoshow=setInterval(autoPlay,5000);
         LR.style.display="none";
     }
     slide.onmouseover=function () {
