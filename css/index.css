@@ -5,7 +5,7 @@ body{
 }
 .full{
     width: 100%;
-    height: 950px;
+    height: 850px;
     background-size: cover;
     position: relative;
 }
@@ -206,10 +206,10 @@ header{
     height: 428px;
     margin-left: 49px;
     margin-top: 5px;
-    background-color: #e3f9fd;
+    background-color: #f0f0f4;
     float: right;
-    box-shadow: 0 0 15px 10px #70f3ff;
-    border-radius: 10px;
+    box-shadow: 0 0 15px 8px coral;
+    border-radius: 2%
 }
 .aboutTop{
     height: 45px;
@@ -220,7 +220,7 @@ header{
     width: 100px;
     height: 40px;
     margin: 10px 0  0 10px ;
-    background: linear-gradient(to right,#ffffff,#70f3ff );
+    background: linear-gradient(to right,#ffffff,#fff2df,coral );
     border-radius: 50%;
     text-align: center;
     box-shadow: 0 0 10px 3px #a1afc9;
@@ -267,21 +267,24 @@ header{
     width: 80%;
     margin: 10px auto;
     padding: 8px;
-    box-shadow: 0 0 10px 5px #a1afc9;
+    box-shadow: 0 0 10px 3px #a1afc9;
     border-radius: 10%;
 }
 .product{
     width: 100%;
-    height: 150px;
-    background-color: #000;
+    height: 250px;
+    background-color: #f0f0f4;
     float: left;
     margin-top: 50px;
+    box-shadow: 0 0 15px 8px coral;
+    border-radius: 15%;
 }
 .productUL{
     
 }
 .productLI{
     float: left;
+    line-height: 250px;
 }
 .productLI img{
     width: 220px;

@@ -73,7 +73,7 @@ h4{
     font-family: "Microsoft YaHei";
     border-bottom: 3px solid #ae5da1;
 }
-span{
+.contentlineSpan{
     margin-left: 120px;
     font-size: 18px;
     font-weight: 400;
