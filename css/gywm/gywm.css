@@ -76,6 +76,15 @@ h3{
     border-bottom: 2px solid #2cb0c6;
     color: #2cb0c6;
 }
+.main{
+    width: 1200px;
+    height: 1400px;
+    position: relative;
+    top:-50px;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow:  0 3px 6px 2px #999;
+}
 footer{
     position: absolute;
     top: 1750px;
