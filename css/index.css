@@ -288,8 +288,13 @@ header{
 }
 .productLI img{
     width: 220px;
-    height: 150px;
+    height: 148px;
     margin: 0 10px;
+    transition: all 0.6s;
+}
+.productLI img:hover{
+    transform: translateY(-5px);
+    box-shadow: 0px 2px 2px 4px rgba(0,0,0,0.3);
 }
 .aboutText p{
     color: rgba(0,0,0,0.8);
