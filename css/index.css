@@ -121,6 +121,8 @@ header{
     overflow: hidden;
     position: relative;
     float: left;
+    border-radius: 10%;
+    box-shadow: 0 0 12px 10px coral;
 }
 .slideUL{
     width: 800%;
@@ -294,7 +296,7 @@ header{
 }
 .productLI img:hover{
     transform: translateY(-5px);
-    box-shadow: 0px 2px 2px 4px rgba(0,0,0,0.3);
+    box-shadow: 0px 2px 8px 4px coral;
 }
 .aboutText p{
     color: rgba(0,0,0,0.8);
