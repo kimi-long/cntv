@@ -49,6 +49,7 @@
     line-height: 35px;
     font-weight: 800;
     border-left:  8px solid  #2cc6b0;
+    margin-bottom: 20px;
 }
 .maincontent span{
     display: inline-block;
