@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3425d026-aa1e-41bb-ac5c-3a6d0c085baa" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/product/dashuju.css" afterPath="$PROJECT_DIR$/css/product/dashuju.css" />
-      <change beforePath="$PROJECT_DIR$/css/product/meizi.css" afterPath="$PROJECT_DIR$/css/product/meizi.css" />
-      <change beforePath="$PROJECT_DIR$/css/product/zhizuo.css" afterPath="$PROJECT_DIR$/css/product/zhizuo.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/links/product/dashuju.html" afterPath="$PROJECT_DIR$/links/product/dashuju.html" />
-      <change beforePath="$PROJECT_DIR$/links/product/meizi.html" afterPath="$PROJECT_DIR$/links/product/meizi.html" />
-      <change beforePath="$PROJECT_DIR$/links/product/zhizuo.html" afterPath="$PROJECT_DIR$/links/product/zhizuo.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="140" column="43" lean-forward="true" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="64" />
+            <state relative-caret-position="3300">
+              <caret line="140" column="43" lean-forward="false" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="64" />
               <folding>
                 <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -41,7 +34,7 @@
       <file leaf-file-name="zhizuo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links/product/zhizuo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
+            <state relative-caret-position="858">
               <caret line="71" column="60" lean-forward="false" selection-start-line="71" selection-start-column="60" selection-end-line="71" selection-end-column="60" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -53,7 +46,7 @@
       <file leaf-file-name="dashuju.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links/product/dashuju.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
+            <state relative-caret-position="1122">
               <caret line="79" column="62" lean-forward="false" selection-start-line="79" selection-start-column="62" selection-end-line="79" selection-end-column="62" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -65,9 +58,11 @@
       <file leaf-file-name="jishu.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/links/product/jishu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="53" column="43" lean-forward="false" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
-              <folding />
+            <state relative-caret-position="-957">
+              <caret line="60" column="55" lean-forward="true" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,7 +167,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,6 +235,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,11 +313,13 @@
       <workItem from="1519387717790" duration="4568000" />
       <workItem from="1519547615255" duration="3580000" />
       <workItem from="1519631058557" duration="5791000" />
+      <workItem from="1519740669303" duration="14000" />
+      <workItem from="1519740826121" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108709000" />
+    <option name="totallyTimeSpent" value="108775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -562,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="79" column="45" lean-forward="false" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,14 +672,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
           <caret line="124" column="27" lean-forward="false" selection-start-line="124" selection-start-column="27" selection-end-line="124" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="140" column="43" lean-forward="true" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="64" />
+        <state relative-caret-position="3300">
+          <caret line="140" column="43" lean-forward="false" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="64" />
           <folding>
             <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -699,13 +692,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="65" column="36" lean-forward="false" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/links/product/zhizuo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
+        <state relative-caret-position="858">
           <caret line="71" column="60" lean-forward="false" selection-start-line="71" selection-start-column="60" selection-end-line="71" selection-end-column="60" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -717,7 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -725,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="51" column="24" lean-forward="false" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -733,13 +723,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/links/product/dashuju.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
+        <state relative-caret-position="1122">
           <caret line="79" column="62" lean-forward="false" selection-start-line="79" selection-start-column="62" selection-end-line="79" selection-end-column="62" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -749,9 +738,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/links/product/jishu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="53" column="43" lean-forward="false" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
-          <folding />
+        <state relative-caret-position="-957">
+          <caret line="60" column="55" lean-forward="true" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
