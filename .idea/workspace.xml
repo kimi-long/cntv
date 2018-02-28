@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3425d026-aa1e-41bb-ac5c-3a6d0c085baa" name="默认的" comment="" />
+=======
+    <list default="true" id="3425d026-aa1e-41bb-ac5c-3a6d0c085baa" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/css/product/shenhe.css" afterPath="$PROJECT_DIR$/css/product/shenhe.css" />
+      <change beforePath="$PROJECT_DIR$/links/product/index.html" afterPath="$PROJECT_DIR$/links/product/index.html" />
+      <change beforePath="$PROJECT_DIR$/links/product/jishu.html" afterPath="$PROJECT_DIR$/links/product/jishu.html" />
+      <change beforePath="$PROJECT_DIR$/links/product/shenhe.html" afterPath="$PROJECT_DIR$/links/product/shenhe.html" />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
+    </list>
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +30,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="3510">
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="3300">
+=======
+            <state relative-caret-position="540">
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
               <caret line="140" column="43" lean-forward="false" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="64" />
               <folding>
                 <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -31,8 +52,18 @@
       <file leaf-file-name="shenhe.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links/product/shenhe.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="30">
               <caret line="59" column="18" lean-forward="false" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="858">
+              <caret line="71" column="60" lean-forward="false" selection-start-line="71" selection-start-column="60" selection-end-line="71" selection-end-column="60" />
+=======
+            <state relative-caret-position="81">
+              <caret line="59" column="18" lean-forward="true" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -44,9 +75,21 @@
       <file leaf-file-name="shenhe.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/product/shenhe.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1050">
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="1122">
+              <caret line="79" column="62" lean-forward="false" selection-start-line="79" selection-start-column="62" selection-end-line="79" selection-end-column="62" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+=======
+            <state relative-caret-position="39">
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
               <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
               <folding />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
             </state>
           </provider>
         </entry>
@@ -54,12 +97,23 @@
       <file leaf-file-name="jishu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links/product/jishu.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1950">
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="-957">
+              <caret line="60" column="55" lean-forward="true" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+=======
+            <state relative-caret-position="172">
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
               <caret line="65" column="41" lean-forward="false" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="62" />
               <folding>
                 <element signature="e#2684#2690#0" expanded="true" />
                 <element signature="e#2690#2696#0" expanded="true" />
                 <element signature="e#2696#2702#0" expanded="true" />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
               </folding>
             </state>
           </provider>
@@ -312,13 +366,29 @@
       <workItem from="1519387717790" duration="4568000" />
       <workItem from="1519547615255" duration="3580000" />
       <workItem from="1519631058557" duration="5791000" />
+<<<<<<< HEAD
+      <workItem from="1519740669303" duration="14000" />
+      <workItem from="1519740826121" duration="52000" />
+=======
       <workItem from="1519716168853" duration="4435000" />
+<<<<<<< HEAD
       <workItem from="1519786649095" duration="21000" />
+=======
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="113165000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="108775000" />
+=======
+    <option name="totallyTimeSpent" value="113144000" />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -619,6 +689,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/css/product/product-index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
     <entry file="file://$PROJECT_DIR$/links/solution/4klbypt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -635,13 +715,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/links/product/meizi.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="3300">
+          <caret line="140" column="43" lean-forward="false" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="64" />
+          <folding>
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+=======
         <state relative-caret-position="359">
           <caret line="65" column="36" lean-forward="false" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="55" />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/product/meizi.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="359">
+          <caret line="65" column="36" lean-forward="false" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="55" />
+=======
         <state relative-caret-position="280">
           <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="24" />
         </state>
@@ -658,48 +753,117 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/links/product/zhizuo.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="858">
+          <caret line="71" column="60" lean-forward="false" selection-start-line="71" selection-start-column="60" selection-end-line="71" selection-end-column="60" />
+=======
         <state relative-caret-position="30">
           <caret line="70" column="29" lean-forward="false" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+<<<<<<< HEAD
+=======
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/product/product-index.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="280">
+          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="24" />
+=======
         <state relative-caret-position="570">
           <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/product/jishu.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="594">
+          <caret line="51" column="24" lean-forward="false" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+=======
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="429">
+          <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+=======
         <state relative-caret-position="292">
           <caret line="222" column="16" lean-forward="false" selection-start-line="222" selection-start-column="16" selection-end-line="222" selection-end-column="16" />
           <folding />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/links/product/dashuju.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1122">
+          <caret line="79" column="62" lean-forward="false" selection-start-line="79" selection-start-column="62" selection-end-line="79" selection-end-column="62" />
+=======
         <state relative-caret-position="-5">
           <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+<<<<<<< HEAD
+=======
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="140" column="43" lean-forward="false" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="64" />
+          <folding>
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/links/product/jishu.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1950">
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="-957">
+          <caret line="60" column="55" lean-forward="true" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+=======
+        <state relative-caret-position="172">
+>>>>>>> a57a7b1dc11f12a51c5cf5a53642d6b76d5c9824
           <caret line="65" column="41" lean-forward="false" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="62" />
           <folding>
             <element signature="e#2684#2690#0" expanded="true" />
@@ -721,6 +885,7 @@
         <state relative-caret-position="1050">
           <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding />
+>>>>>>> e805a699c5cae32abd3dc32044f23c50a6e54bae
         </state>
       </provider>
     </entry>
