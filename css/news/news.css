@@ -70,3 +70,26 @@ footer{
     font-size: 18px;
     font-weight: 600;
 }
+.news-list{
+    height: 120px;
+}
+img.news-list-pic{
+    border-radius: 10%;
+    float: left;
+}
+.news-list-title{
+    font-size: 20px;
+    color: #2e8be1;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.news-list-time{
+    float: right;
+    margin-top: 80px;
+    color: #2e8be1;
+    margin-right: 40px;
+    font-size: 16px;
+    font-weight: bold;
+}
