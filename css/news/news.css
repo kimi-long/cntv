@@ -77,19 +77,30 @@ img.news-list-pic{
     border-radius: 10%;
     float: left;
 }
+.mid{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
 .news-list-title{
     font-size: 20px;
     color: #2e8be1;
-    float: left;
-    margin-left: 50px;
+    margin-left: 200px;
     margin-top: 10px;
+    padding-top: 10px;
     font-weight: bold;
+    line-height: 25px;
 }
 .news-list-time{
-    float: right;
-    margin-top: 80px;
     color: #2e8be1;
-    margin-right: 40px;
+    margin-left: 200px;
+    margin-top:30px;
     font-size: 16px;
     font-weight: bold;
+}
+.news-list a:hover .news-list-time{
+     color: #32b16c;
+ }
+.news-list a:hover .news-list-title{
+    color: #32b16c;
 }
