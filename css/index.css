@@ -68,7 +68,7 @@ header{
     line-height: 30px;
     font-size: 15px;
     color: black;
-    transition:0.5s
+    transition:0.5s;
 }
 .nav2top {
     margin-top: 15px;
@@ -135,6 +135,7 @@ header{
     position: relative;
 }
 .slide li img{
+
 }
 .clickItems{
     width: 147px;
