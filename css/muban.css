@@ -46,6 +46,9 @@ header{
     line-height: 80px;
     padding-bottom: 13px;
 }
+.header-right ul>li>a:hover{
+    text-decoration: none;
+}
 .header-right ul>li .nav2{
     position: absolute;
     width: 150px;
@@ -181,4 +184,7 @@ footer{
     0%   {top:90px;}
     50%  {top:75px;}
     100%  {top:70px;}
+}
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
